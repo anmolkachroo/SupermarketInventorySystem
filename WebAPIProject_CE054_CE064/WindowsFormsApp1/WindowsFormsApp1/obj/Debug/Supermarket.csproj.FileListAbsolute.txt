@@ -1,0 +1,15 @@
+C:\Users\Acer\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Acer\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Acer\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Acer\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Supermarket.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Acer\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Acer\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Supermarket.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Supermarket.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Acer\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Acer\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Splash.resources
+C:\Users\Acer\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ProductForm.resources
+C:\Users\Acer\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CategoryForm.resources
+C:\Users\Acer\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SellerForm.resources
+C:\Users\Acer\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SellingForm.resources
